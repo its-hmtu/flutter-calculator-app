@@ -1,4 +1,4 @@
-# demo
+# Flutter Calculator App
 
 A Flutter Calculator Project.
 
